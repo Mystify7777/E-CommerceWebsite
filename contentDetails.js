@@ -145,3 +145,4 @@ let httpRequest = new XMLHttpRequest()
 
 httpRequest.open('GET', 'https://5d76bf96515d1a0014085cf9.mockapi.io/product/'+id, true)
 httpRequest.send()  
+// Again a lot of stuff

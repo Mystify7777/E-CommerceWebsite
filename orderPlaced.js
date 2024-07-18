@@ -25,3 +25,4 @@ httpRequest.onreadystatechange = function()
     }
 }
 httpRequest.send(null);
+//unknown stuff
